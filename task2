@@ -1,0 +1,41 @@
+Predictive Modeling Using Machine Learning
+Project Overview
+
+This project uses Machine Learning to predict student marks based on study hours and attendance. A Linear Regression model is trained on sample student data and used to make predictions.
+
+Objective
+
+To build a predictive model that can estimate student performance using historical data and evaluate the model's accuracy.
+
+Technologies Used
+Python
+Pandas
+NumPy
+Scikit-Learn
+Features
+Data preprocessing
+Train-test data splitting
+Linear Regression model training
+Student marks prediction
+Model performance evaluation using Mean Squared Error (MSE)
+Dataset
+
+The dataset contains:
+
+Hours Studied
+Attendance Percentage
+Marks Obtained
+Workflow
+Load dataset
+Select input and output features
+Split data into training and testing sets
+Train Linear Regression model
+Predict results on test data
+Evaluate model performance
+Expected Output
+
+The model predicts student marks based on study hours and attendance and displays the prediction results along with the Mean Squared Error value.
+
+Conclusion
+
+This project demonstrates the implementation of a basic Machine Learning predictive model using Linear Regression. It helps understand data preprocessing, model training, prediction, and evaluation techniques.
